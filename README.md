@@ -3,3 +3,5 @@
 ### Instructor: Stephen Woosley
 
 ### TAs: Monica Howard, Ryan Booth, Lemaire Stewart, and Joe Johnson
+
+### Welcome to the course!
