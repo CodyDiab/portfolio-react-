@@ -4,4 +4,9 @@
 
 ### TAs: Monica Howard, Ryan Booth, Lemaire Stewart, and Joe Johnson
 
-### Welcome to the course!
+### Class Schedule
+
+| Tuesday         | Thursday        |
+| -------------   |:-------------:  |
+| 7:00pm - 9:00pm | 6:30pm - 9:30pm | 
+
