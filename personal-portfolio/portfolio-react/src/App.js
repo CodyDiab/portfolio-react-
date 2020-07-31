@@ -1,6 +1,6 @@
 import React from 'react';
-import About from './components/About'
-
+// import About from './components/About'
+import Projects from './components/Projects'
 import './styles/index.css';
 
 function App() {
@@ -10,7 +10,9 @@ function App() {
         <h1>Here is the title, howdy yall</h1>
       </header>
       <div>
-         <About></About>
+         {/* <About></About> */}
+
+         <Projects></Projects>
       </div>
      
     </div>
