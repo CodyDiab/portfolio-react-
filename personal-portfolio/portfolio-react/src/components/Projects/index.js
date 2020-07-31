@@ -5,7 +5,7 @@ import { Carousel } from 'react-responsive-carousel';
 
 function Projects() {
     return(
-        <Carousel>
+        <Carousel showThumbs={false}>
         <a href="https://stormy-scrubland-17368.herokuapp.com/" tagtet="_blank" rel="noopener noreferrer">
             <div className="item ">
                 <img src={require("../../assets/scatterbrain.png")} alt="screenshot"></img>
